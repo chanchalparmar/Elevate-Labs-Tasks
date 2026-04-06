@@ -62,13 +62,3 @@ Elevate-Labs-Tasks/
 * Improved data visualization skills
 * Hands-on experience with real-world datasets
 * Ability to derive insights and present findings effectively
-
----
-
-## Contact
-
-If you have any suggestions or feedback, feel free to connect!
-
----
-
-⭐ Don’t forget to star this repository if you find it useful!
