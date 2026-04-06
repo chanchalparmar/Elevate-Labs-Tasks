@@ -1,0 +1,11 @@
+INSIGHTS – Sales Analysis Dashboard
+
+The West region consistently achieved the highest sales throughout the year, especially peaking in Q3.
+
+The Technology category led in sales volume, showing a strong upward trend over the months compared to Furniture and Office Supplies.
+
+A noticeable increase in sales occurred in November and December, likely due to seasonal promotions and holiday shopping.
+
+The Central region showed relatively lower sales performance across all categories, indicating a potential area for marketing focus.
+
+Note: These insights are based on visual trends and performance patterns identified in the dashboard using the provided dataset.
