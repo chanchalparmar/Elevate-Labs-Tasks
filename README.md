@@ -46,13 +46,6 @@ Elevate-Labs-Tasks/
 * Built an interactive **Power BI dashboard**
 * Used SQL queries for data extraction and aggregation
 
----
-
-##  Task 8 – Sales Dashboard
-
-* Designed an interactive dashboard using Power BI
-* Analyzed sales performance, profit trends, and customer behavior
-* Provided insights for business decision-making
 
 ---
 
